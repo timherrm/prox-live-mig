@@ -4,6 +4,8 @@ Proxmox bietet die Live-Migration von virtuellen Maschinen an, jedoch muss immer
 
 Zur Automatisierung von Updates und Systemneustarten soll jede VM auf den Host mit der derzeitig geringsten CPU-Auslastung migriert werden, außerdem sollen die VM's nach dem Neustart des Systems wieder auf die entsprechende Node zurückgeholt werden.
 
+Ratschläge und Hinweise zur Verbesserung sind ausdrücklich erwünscht!
+
 ## Features:
 - Berücksichtigung der Node-CPU-Werte der letzten 10 Minuten
 - Nodes nach CPU oder RAM gewichten
