@@ -15,6 +15,8 @@ Ratschläge und Hinweise zur Verbesserung sind ausdrücklich erwünscht!
 - Auswerfen lokaler CD/DVD-Images
 - Warten zwischen Migrationen um aktualisierte CPU/RAM-Daten zu erhalten
 - automatisches Zurückholen der VM's
+- farbliche Gestaltung des Outputs zur Übersichtlichkeit
+
 
 ## Usage:
 Kann als Cronjob, via Ansible, etc. gestartet werden.
