@@ -17,6 +17,8 @@ Ratschläge und Hinweise zur Verbesserung sind ausdrücklich erwünscht!
 - automatisches Zurückholen der VM's
 - farbliche Gestaltung des Outputs zur Übersichtlichkeit
 
+## To Do:
+- automatisches Zurückmigrieren aufgrund von HA-Priorität verhindern
 
 ## Usage:
 Kann als Cronjob, via Ansible, etc. gestartet werden.
