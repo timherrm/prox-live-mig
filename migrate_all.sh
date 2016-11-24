@@ -145,7 +145,7 @@ if [ $i -lt $(expr "${#vm_array[@]}" - 1 ) ] && [ $err == "0" ];		#
 then										#
 	echo -e '\E[36;40m';							#
 	echo -ne "Warte 10 Minuten";						#
-	sleep 20;								#
+	sleep 600;								#
 	echo -e '\E[0m';							#
 elif [ $err == "1" ];								#
 then										#
